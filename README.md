@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,html,bootstrap, swiftui" />
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,html,bootstrap,swiftui" />
     <img src="https://skillicons.dev/icons?i=kotlin,java,dart,swift,python,php,sqlite" /><br>
 </div>
 
