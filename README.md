@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ELOUAKFAOUI YASSINE</h1>
-<h3 align="center">Developer Mobile Application | Blue Team Cybersecurity</h3>
+<h3 align="center">Cybersecurity & AI | Mobile Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elouakfaouiyassine&label=Profile%20views&color=0e75b6&style=flat" alt="elouakfaouiyassine" /> </p>
 
